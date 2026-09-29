@@ -1,0 +1,18 @@
+# Secrets
+.env
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local collected data and generated output
+data/raw/
+output/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# VS Code/Windows
+.vscode/
+Thumbs.db
