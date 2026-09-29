@@ -1,0 +1,7 @@
+praw
+python-dotenv
+pandas
+jupyter
+ipykernel
+pyarrow
+scikit-learn
