@@ -1,0 +1,11 @@
+comment_id,post_id,body,score,created_utc,subreddit
+c001,p001,"Kirkland protein bars are my favorite Costco snack. Great value.",42,2026-09-01T12:00:00Z,Costco
+c002,p001,"Bitchin Sauce is excellent with chips and vegetables.",31,2026-09-01T13:00:00Z,Costco
+c003,p002,"I love the Bare chicken nuggets, especially for quick dinners.",27,2026-09-02T11:30:00Z,Costco
+c004,p002,"The Kirkland Colombian coffee beans are good value.",19,2026-09-02T12:15:00Z,Costco
+c005,p003,"Avoid the Kirkland protein bars if you dislike the texture.",8,2026-09-03T09:00:00Z,Costco
+c006,p003,"Bitchin Sauce is overpriced at my warehouse.",5,2026-09-03T10:20:00Z,Costco
+c007,p004,"Fairlife protein shakes are worth buying when they are available.",36,2026-09-04T14:00:00Z,Costco
+c008,p004,"Kirkland paper towels are reliable and a good deal.",24,2026-09-04T15:30:00Z,Costco
+c009,p005,"I did not like the Bare nuggets; they were too salty.",6,2026-09-05T16:00:00Z,Costco
+c010,p005,"Kirkland pesto is delicious and I buy it regularly.",22,2026-09-05T17:45:00Z,Costco
